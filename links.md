@@ -7,3 +7,7 @@
 ## markdown
 
 - [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+## Refactoring
+
+- [Refactoring.Guru](https://refactoring.guru/ja)
